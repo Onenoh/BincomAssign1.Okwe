@@ -1,0 +1,6 @@
+@BincomAssign1.Okwe_HostAddress = http://localhost:5241
+
+GET {{BincomAssign1.Okwe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
